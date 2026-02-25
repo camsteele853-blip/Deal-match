@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:688338e4ee9e1a9340d83b62",
+  "name": "SLACK_LIST_ALL_SLACK_TEAM_CHANNELS_WITH_VARIOUS_FILTERS",
+  "description": "DEPRECATED: Lists conversations available to the user with various filters and search options. Use `list_channels` instead.",
+  "docPath": "src/sdk/mcp-clients/688338e4ee9e1a9340d83b62/SLACK_LIST_ALL_SLACK_TEAM_CHANNELS_WITH_VARIOUS_FILTERS.md"
+}

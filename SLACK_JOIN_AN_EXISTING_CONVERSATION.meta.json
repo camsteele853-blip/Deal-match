@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:688338e4ee9e1a9340d83b62",
+  "name": "SLACK_JOIN_AN_EXISTING_CONVERSATION",
+  "description": "Joins an existing Slack conversation (public channel, private channel, or multi-person direct message) by its ID, if the authenticated user has permission.",
+  "docPath": "src/sdk/mcp-clients/688338e4ee9e1a9340d83b62/SLACK_JOIN_AN_EXISTING_CONVERSATION.md"
+}

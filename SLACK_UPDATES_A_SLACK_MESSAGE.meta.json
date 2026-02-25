@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:688338e4ee9e1a9340d83b62",
+  "name": "SLACK_UPDATES_A_SLACK_MESSAGE",
+  "description": "Updates a Slack message, identified by `channel` ID and `ts` timestamp, by modifying its `text`, `attachments`, or `blocks`; provide at least one content field, noting `attachments`/`blocks` are replaced if included (`[]` clears them).",
+  "docPath": "src/sdk/mcp-clients/688338e4ee9e1a9340d83b62/SLACK_UPDATES_A_SLACK_MESSAGE.md"
+}

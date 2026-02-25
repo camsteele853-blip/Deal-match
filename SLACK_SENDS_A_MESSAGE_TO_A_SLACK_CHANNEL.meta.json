@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:688338e4ee9e1a9340d83b62",
+  "name": "SLACK_SENDS_A_MESSAGE_TO_A_SLACK_CHANNEL",
+  "description": "DEPRECATED: Posts a message to a Slack channel, direct message, or private group. Use `send_message` instead.",
+  "docPath": "src/sdk/mcp-clients/688338e4ee9e1a9340d83b62/SLACK_SENDS_A_MESSAGE_TO_A_SLACK_CHANNEL.md"
+}

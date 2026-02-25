@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:68f0a290f81ae7b79782adc9",
+  "name": "FIRECRAWL_CRAWL",
+  "description": "Initiates a Firecrawl web crawl from a given URL, applying various filtering and content extraction rules, and polls until the job is complete; ensure the URL is accessible and any regex patterns for paths are valid.",
+  "docPath": "src/sdk/mcp-clients/68f0a290f81ae7b79782adc9/FIRECRAWL_CRAWL.md"
+}

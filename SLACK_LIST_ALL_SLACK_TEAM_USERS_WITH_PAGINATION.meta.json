@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:688338e4ee9e1a9340d83b62",
+  "name": "SLACK_LIST_ALL_SLACK_TEAM_USERS_WITH_PAGINATION",
+  "description": "DEPRECATED: Retrieves a paginated list of all users in a Slack workspace. Use `list_all_users` instead.",
+  "docPath": "src/sdk/mcp-clients/688338e4ee9e1a9340d83b62/SLACK_LIST_ALL_SLACK_TEAM_USERS_WITH_PAGINATION.md"
+}

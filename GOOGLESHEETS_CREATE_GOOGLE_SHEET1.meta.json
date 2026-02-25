@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:686de48c6fd1cae1afbb55ba",
+  "name": "GOOGLESHEETS_CREATE_GOOGLE_SHEET1",
+  "description": "Creates a new Google Spreadsheet in Google Drive. If a title is provided, the spreadsheet will be created with that name. If no title is provided, Google will create a spreadsheet with a default name like 'Untitled spreadsheet'.",
+  "docPath": "src/sdk/mcp-clients/686de48c6fd1cae1afbb55ba/GOOGLESHEETS_CREATE_GOOGLE_SHEET1.md"
+}

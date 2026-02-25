@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:68f0a290f81ae7b79782adc9",
+  "name": "FIRECRAWL_GET_THE_STATUS_OF_A_CRAWL_JOB",
+  "description": "Retrieves the current status, progress, and details of a web crawl job, using the job ID obtained when the crawl was initiated.",
+  "docPath": "src/sdk/mcp-clients/68f0a290f81ae7b79782adc9/FIRECRAWL_GET_THE_STATUS_OF_A_CRAWL_JOB.md"
+}

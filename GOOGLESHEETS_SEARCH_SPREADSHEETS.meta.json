@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:686de48c6fd1cae1afbb55ba",
+  "name": "GOOGLESHEETS_SEARCH_SPREADSHEETS",
+  "description": "Search for Google Spreadsheets using various filters including name, content, date ranges, and more.",
+  "docPath": "src/sdk/mcp-clients/686de48c6fd1cae1afbb55ba/GOOGLESHEETS_SEARCH_SPREADSHEETS.md"
+}

@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:686de48c6fd1cae1afbb55ba",
+  "name": "GOOGLESHEETS_LOOKUP_SPREADSHEET_ROW",
+  "description": "Finds the first row in a Google Spreadsheet where a cell's entire content exactly matches the query string, searching within a specified A1 notation range or the first sheet by default.",
+  "docPath": "src/sdk/mcp-clients/686de48c6fd1cae1afbb55ba/GOOGLESHEETS_LOOKUP_SPREADSHEET_ROW.md"
+}

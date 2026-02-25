@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:686de48c6fd1cae1afbb55ba",
+  "name": "GOOGLESHEETS_GET_SPREADSHEET_INFO",
+  "description": "Retrieves comprehensive metadata for a Google Spreadsheet using its ID, excluding cell data.",
+  "docPath": "src/sdk/mcp-clients/686de48c6fd1cae1afbb55ba/GOOGLESHEETS_GET_SPREADSHEET_INFO.md"
+}

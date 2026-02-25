@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:686de48c6fd1cae1afbb55ba",
+  "name": "GOOGLESHEETS_SHEET_FROM_JSON",
+  "description": "Creates a new Google Spreadsheet and populates its first worksheet from `sheet_json`. When data is provided, the first item's keys establish the headers. An empty list creates an empty worksheet.",
+  "docPath": "src/sdk/mcp-clients/686de48c6fd1cae1afbb55ba/GOOGLESHEETS_SHEET_FROM_JSON.md"
+}

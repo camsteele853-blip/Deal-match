@@ -1,0 +1,6 @@
+{
+  "integrationId": "mcp:68f0a290f81ae7b79782adc9",
+  "name": "FIRECRAWL_SCRAPE",
+  "description": "Scrapes a publicly accessible URL, optionally performing pre-scrape browser actions or extracting structured JSON using an LLM, to retrieve content in specified formats.",
+  "docPath": "src/sdk/mcp-clients/68f0a290f81ae7b79782adc9/FIRECRAWL_SCRAPE.md"
+}
